@@ -28,4 +28,9 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 11.Generated staging versions powered by pull requests enabling preview versions of your site before publishing.
 
-Here you can see my spotify clone:
+Here you can see my spotify clone:https://proud-stone-0a5de3c10.1.azurestaticapps.net/
+
+PROJECT DEMO:
+
+
+![spotify clone pic](https://user-images.githubusercontent.com/65596788/155395456-3013ea33-285e-4397-b7cb-0ab0520ecf64.PNG)

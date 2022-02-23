@@ -30,7 +30,7 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 Here you can see my spotify clone:https://proud-stone-0a5de3c10.1.azurestaticapps.net/
 
-PROJECT DEMO:
+PROJECT DEMO: https://youtu.be/LXiJMA19SOs
 
 
 ![spotify clone pic](https://user-images.githubusercontent.com/65596788/155395456-3013ea33-285e-4397-b7cb-0ab0520ecf64.PNG)
